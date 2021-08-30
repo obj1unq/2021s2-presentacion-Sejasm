@@ -10,6 +10,5 @@ Mas cosas sobre mi:
 
 -Soy tecnico electromecánico.
 
-Si me sale, debajo tendrian que ver una foto mia del 2018 por tocar con una "banda" que tuve
-![Yo](WhatsApp Image 2021-08-30 at 20.00.35.jpeg)
+
 
